@@ -109,7 +109,7 @@
     <p>
       Ready for your free estimate or looking to schedule a service? We’d love to hear from you!
     </p>
-    <p>Email: info@crystalcleanpros.com<br />Phone: (123) 456-7890</p>
+    <p>Email: xpatya@live.com<br />Phone: (201) 899-6045</p>
   </section>
 
   <footer>
